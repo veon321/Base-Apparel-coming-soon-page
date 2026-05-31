@@ -5,7 +5,7 @@ This is a clean, responsive, and modern solution to the Base Apparel coming soon
 ## Links
 
 - Solution URL: [https://github.com/veon321/Base-Apparel-coming-soon](https://github.com/veon321/Base-Apparel-coming-soon)
-- Live Site URL: [https://veon321.github.io/Base-Apparel-coming-soon/](https://veon321.github.io/Base-Apparel-coming-soon/)
+- Live Site URL: [https://veon321.github.io/Base-Apparel-coming-soon-page/](https://veon321.github.io/Base-Apparel-coming-soon-page/)
 
 ## Built with
 
