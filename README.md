@@ -17,5 +17,4 @@ This is a clean, responsive, and modern solution to the Base Apparel coming soon
 ## Features
 
 - **Embedded Input Layout**: Places the submit control asset directly within the bounding frame of the text element using absolute position systems.
-- **Comprehensive Form Error Hooking**: Triggers responsive alert text nodes and an additional alert icon element synchronously if client data fails formatting pipelines.
 - **Dynamic CSS Overlay Transitions**: Leverages color adjustments and minor element scaling transformations during interaction states to offer visual feedback to the client.
